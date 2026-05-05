@@ -1,11 +1,11 @@
-# FDAFusion
+# DPFNet
 Code of DPFNet
 
 ## Tips:<br>
 Due to file size issues, the training set has been removed from the code and the MSRS dataset can be downloaded here: https://github.com/Linfeng-Tang/MSRS
 Place the downloaded training dataset under: train/MSRS path.
 
-The model we trained on the MSRS dataset can be downloaded here:https://drive.google.com/file/d/1Y-wGVcw0cTHcG4OTv6SgGsavRHDGMCqp/view?usp=sharing. Place it in the checkpoints directory.
+The model we trained on the MSRS dataset can be downloaded here:[https://drive.google.com/file/d/1Y-wGVcw0cTHcG4OTv6SgGsavRHDGMCqp/view?usp=sharing](https://drive.google.com/file/d/1TOroo4kFWw5K-vBA177qBDhD_q1aHGg_/view?usp=sharing). Place it in the checkpoints directory.
 
 ## To Train 
 Run "** python train.py**" to train your model.
