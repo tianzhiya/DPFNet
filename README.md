@@ -1,5 +1,5 @@
-# DPFNet
-Code of DPFNet
+# DGFNet
+Code of DGFNet:An Learnable Dual-Guidance Frequency Decoupling Method for Infrared and Visible Image Fusion
 
 ## Tips:<br>
 Due to file size issues, the training set has been removed from the code and the MSRS dataset can be downloaded here: https://github.com/Linfeng-Tang/MSRS
